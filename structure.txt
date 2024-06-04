@@ -1,0 +1,4 @@
+folder/
+folder/example_file_1.txt
+folder/subfolder/
+folder/subfolder/example_file_2.txt
